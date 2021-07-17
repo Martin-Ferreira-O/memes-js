@@ -1,5 +1,5 @@
 # How to install?
-### Just copy this commands in the console
+### Just copy this command to your console
 ```sh
 npm i memes-js
 ```
