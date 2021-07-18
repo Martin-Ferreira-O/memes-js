@@ -1,4 +1,4 @@
-export interface memeInterface {
+export interface IMeme {
     ups: number;
     author: string;
     downs: number;
