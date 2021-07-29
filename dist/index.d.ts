@@ -1,4 +1,4 @@
-import { IMeme } from './utils/interfaces';
+import { IMeme } from './lib';
 /**
  *
  * @param url The name of the subreddit

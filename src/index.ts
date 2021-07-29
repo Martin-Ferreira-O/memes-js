@@ -1,5 +1,5 @@
 import fetch from 'node-fetch';
-import { IMeme } from './utils/interfaces';
+import { IMeme } from './lib';
 const BASEURL = 'https://www.reddit.com/r/{url}.json?sort=top&t=day&limit=100';
 /**
  * 
