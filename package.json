@@ -20,8 +20,8 @@
         "url": "https://github.com/Kapone-dev/memes-js/issues"
     },
     "homepage": "https://github.com/kapone-dev/memes-js",
-    "devDependencies": {
-        "@types/node-fetch": "^2.5.12",
-        "node-fetch": "^2.6.1"
+    "devDependencies": {},
+    "dependencies": {
+        "axios": "^0.21.1"
     }
 }
