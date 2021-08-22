@@ -1,6 +1,6 @@
 {
     "name": "memes-js",
-    "version": "1.1.0",
+    "version": "1.0.8",
     "description": "A package to get a random memes from reddit :)",
     "main": "./dist/index.js",
     "scripts": {
@@ -20,9 +20,6 @@
         "url": "https://github.com/Kapone-dev/memes-js/issues"
     },
     "homepage": "https://github.com/kapone-dev/memes-js",
-    "devDependencies": {
-        "@types/node-fetch": "^2.5.12"
-    },
     "dependencies": {
         "axios": "^0.21.1"
     }
