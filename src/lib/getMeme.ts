@@ -16,7 +16,7 @@ export const getMeme = async (
         );
     if (typeof force != 'boolean')
         throw TypeError(
-            'The force received is not a boolean, I received ' + typeof url
+            'The force received is not a boolean, I received ' + typeof force
         );
     const res = await axios({ url: `https://www.reddit.com/r/${url}.json?sort=top&t=day&limit=100` });
     const memes: Array<any> = res.data.data.children;
